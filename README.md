@@ -1,1 +1,1 @@
-# odin-recipes
+# This project is a showcase of the skills I have garnered using The Odin Project and serves as a website that will list recipes as well as links to said recipes within. 
