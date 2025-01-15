@@ -2,16 +2,30 @@
     text-align: center;
     color: cornflowerblue;
     background-color: aquamarine;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .desc {
     text-align: center;
+    color: cornflowerblue;
+    background-color: aquamarine;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .ingredients {
     text-align: center;
+    color: cornflowerblue;
+    background-color: aquamarine;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .steps {
     text-align: center;
+    color: cornflowerblue;
+    background-color: aquamarine;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.back-home-button {
+    font-weight: bolder;
 }
