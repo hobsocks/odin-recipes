@@ -1,8 +1,17 @@
  .title-of-recipe {
     text-align: center;
     color: cornflowerblue;
+    background-color: aquamarine;
 }
 
 .desc {
+    text-align: center;
+}
+
+.ingredients {
+    text-align: center;
+}
+
+.steps {
     text-align: center;
 }
